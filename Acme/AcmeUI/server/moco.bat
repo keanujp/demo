@@ -1,0 +1,1 @@
+java -jar ./moco/moco-runner-0.9.1-standalone.jar start -p 9092 -c moco.json

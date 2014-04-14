@@ -1,0 +1,1 @@
+Regular Java Web project

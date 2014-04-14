@@ -1,0 +1,14 @@
+[{
+  "request": {
+    "uri": "/api/book",
+    "method": "get"
+  },
+  "response": {
+    "file": "book.json"
+  }
+}, {
+  "mount": {
+    "dir": "../target",
+    "uri": "/"
+  }
+}]
